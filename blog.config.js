@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
+  title: '测试标题',
+  author: 'Max（PencilMing）',
   email: 'i@craigary.net',
   link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: '这是一个测试的博客网站',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
